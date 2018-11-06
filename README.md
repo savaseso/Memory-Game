@@ -2,6 +2,9 @@
 
 This simple game built to test a users memory. There's a deck of cards with different icons.
 
+Try here: 
+https://savaseso.github.io/Memory-Game/
+
 GETTING STARTED:
 
 The game was built as a Udacity Course project(FEND). Uses starter code provided by Udacity to assist with HTML, CSS, and shuffle function.
